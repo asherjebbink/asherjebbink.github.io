@@ -1,0 +1,24 @@
+theme: jekyll-theme-cayman
+
+timezone: Australia/Sydney
+author: "Asher Jebbink"
+google_analytics: UA-176937767-1
+title: Another SCCM/MECM Blog
+description: ''
+url: 'https://asherjebbink.github.io'
+
+future: true
+
+logo: /assets/img/logo.png
+image: /assets/img/logo.png
+
+show_downloads: false
+
+cayman-blog:
+  date_format: "%d %b %Y"
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
